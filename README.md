@@ -10,7 +10,7 @@ Hola, este es el proyecto final que realice en el curso de Tecnolochicas❤:
 
 ## 2. Demo
 
-Puedes entrar a ver el demo en este vínculo: https://dazzling-nightingale-01ce86.netlify.app
+Puedes entrar a ver el demo en este vínculo: https://berenisecenteno.github.io/Google-Clone/
 
 La idea es inspirarte con esta demostración de proyecto. 
 
